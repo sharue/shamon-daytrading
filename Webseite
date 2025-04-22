@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shamon Daytrading Kurs</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #2e2e2e;
+            color: #d0d0ff;
+        }
+
+        header {
+            background-color: #1c1c1c;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #d0d0ff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+            nav a:hover {
+                color: #87cefa;
+            }
+
+        .container {
+            padding: 30px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .shop-item {
+            background-color: #3b3b3b;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 15px 0;
+        }
+
+            .shop-item h4 {
+                margin: 0 0 10px 0;
+            }
+
+        footer {
+            background-color: #1c1c1c;
+            color: #999;
+            text-align: center;
+            padding: 20px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shamon Daytrading Kurs</h1>
+        <nav>
+            <a href="#start">Startseite</a>
+            <a href="#kurse">Kursangebote</a>
+            <a href="#ueber">Über mich</a>
+            <a href="#kontakt">Kontakt</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="start" class="section">
+            <h2>Willkommen beim Shamon Daytrading Kurs</h2>
+            <p>Hier lernst du einfach, ehrlich und direkt, wie du dich im Daytrading zurechtfindest – ohne Blabla, ohne Fake. Mein Kurs ist für Leute gemacht, die wirklich verstehen wollen, wie die Märkte ticken und wie man langfristig besser wird.</p>
+        </section>
+
+        <section id="kurse" class="section">
+            <h2>Kursangebote</h2>
+            <ul>
+                <li>🧠 Einführung in Daytrading</li>
+                <li>📊 Technische Analyse verstehen</li>
+                <li>🕒 Einstieg & Ausstieg erkennen</li>
+                <li>💸 Risikomanagement</li>
+            </ul>
+        </section>
+
+        <section id="shop" class="section">
+            <h2>Shop</h2>
+            <div class="shop-item">
+                <h4>Basis-Kurs – CHF 49.-</h4>
+                <p>Perfekt für Einsteiger – direkt anwendbares Wissen in kompaktem Format.</p>
+            </div>
+            <div class="shop-item">
+                <h4>Fortgeschrittenen-Kurs – CHF 89.-</h4>
+                <p>Für alle, die tiefer einsteigen wollen – inkl. Live-Trading-Beispielen.</p>
+            </div>
+        </section>
+
+        <section id="ueber" class="section">
+            <h2>Über mich</h2>
+            <p>Ich bin Shamon, 23, komme aus der Schweiz, arbeite auf dem Bau – und trade in meiner Freizeit mit Leidenschaft. Ich erklär dir die Börse nicht wie ein Banker, sondern wie ein echter Bro.</p>
+        </section>
+
+        <section id="kontakt" class="section">
+            <h2>Kontakt</h2>
+            <p>Du willst was fragen oder direkt loslegen? Schreib mir auf <strong>shamon@tradingkurs.ch</strong></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Shamon Daytrading Kurs</p>
+    </footer>
+</body>
+</html>
